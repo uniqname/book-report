@@ -1,0 +1,31 @@
+{
+  "name": "book-report",
+  "version": "1.0.0",
+  "description": "Read in a file with optional parsing and return a promise",
+  "main": "book-report.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uniqname/book-report.git"
+  },
+  "keywords": [
+    "promise",
+    "read",
+    "file"
+  ],
+  "author": "Cory Brown <oh.wise.man@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniqname/book-report/issues"
+  },
+  "homepage": "https://github.com/uniqname/book-report",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.0",
+    "ini": "^1.3.3",
+    "mocha": "^2.2.1"
+  }
+}
